@@ -23,14 +23,10 @@ Armies are consisteted of the following types of units:
 - squire
 
 Cleric has an ability to restore units' health.
-
 Mage has an ability to clone units.
 
-
 Observer implies logging of the deaths of all the units, hits from heroes and hits to heroes.
-
 The design pattern Command is done as undo and redo commands.
-
 Also, there is an opportunity to choose a strategy between Line, Column and Rank during the game.
 
 ## Special thanks
