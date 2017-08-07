@@ -30,5 +30,4 @@ The design pattern Command is done as undo and redo commands.
 Also, there is an opportunity to choose a strategy between Line, Column and Rank during the game.
 
 ## Special thanks
-- [Konstantin]
-[Konstantin]:https://github.com/rilian-la-te
+- [Konstantin](https://github.com/rilian-la-te)
